@@ -1,0 +1,26 @@
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\film\film\bin\Debug\film.exe
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\film\film\bin\Debug\film.pdb
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\film\film\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\film\film\obj\x86\Debug\film.Form1.resources
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\film\film\obj\x86\Debug\film.Properties.Resources.resources
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\film\film\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\film\film\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\film\film\obj\x86\Debug\film.exe
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\film\film\obj\x86\Debug\film.pdb
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\film\film\obj\x86\Debug\film.Form2.resources
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\obj\x86\Debug\film.exe
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\obj\x86\Debug\film.pdb
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\obj\x86\Debug\film.Form1.resources
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\obj\x86\Debug\film.Form2.resources
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\obj\x86\Debug\film.Form3.resources
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\obj\x86\Debug\film.Properties.Resources.resources
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\bin\Debug\film.exe
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\bin\Debug\film.pdb
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\bin\Debug\cd.mdb
+H:\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\bin\Debug\film.exe.config
+C:\Users\Kerrar\Desktop\flash bellek\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\bin\Debug\film.exe.config
+C:\Users\Kerrar\Desktop\flash bellek\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\obj\x86\Debug\film.exe
+C:\Users\Kerrar\Desktop\flash bellek\GÖRSEL PROGRAMLAMA 2 ÖRNEKLERİ\film\film\obj\x86\Debug\film.pdb
