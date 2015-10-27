@@ -1,0 +1,33 @@
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\bin\Debug\CD_Otomasyon.exe
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\bin\Debug\CD_Otomasyon.pdb
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form1.resources
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Properties.Resources.resources
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.exe
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.pdb
+c:\documents and settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form2.resources
+C:\Documents and Settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form3.resources
+C:\Documents and Settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form4.resources
+C:\Documents and Settings\bilgi işlem\Belgelerim\Visual Studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form5.resources
+C:\Documents and Settings\bilgi işlem\belgelerim\visual studio 2010\Projects\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form6.resources
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.exe
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.pdb
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\bin\Debug\CD_Otomasyon.exe
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\bin\Debug\CD_Otomasyon.pdb
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form1.resources
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form2.resources
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form3.resources
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form4.resources
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form5.resources
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Form6.resources
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.Properties.Resources.resources
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\bin\Debug\CDci.mdb
+C:\Users\Kerrar\Desktop\CD_Otomasyon\CD_Otomasyon\bin\Debug\CD_Otomasyon.exe.config
+C:\Users\Kerrar\Desktop\BİLECİK ÜNİVERSİTE\2 SINIF 2 DÖNEM\GÖRSEL PROGRAMLAMA 2\CD_Otomasyon\CD_Otomasyon\bin\Debug\CD_Otomasyon.exe.config
+C:\Users\Kerrar\Desktop\BİLECİK ÜNİVERSİTE\2 SINIF 2 DÖNEM\GÖRSEL PROGRAMLAMA 2\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.exe
+C:\Users\Kerrar\Desktop\BİLECİK ÜNİVERSİTE\2 SINIF 2 DÖNEM\GÖRSEL PROGRAMLAMA 2\CD_Otomasyon\CD_Otomasyon\obj\x86\Debug\CD_Otomasyon.pdb
